@@ -6,9 +6,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kane - Creative Portfolio Showcase Template">
-    <meta name="keywords" content="personal, portfolio new, html, one page, bootstrap, new html template, design, creative, onepage, clean, modern">
-    <meta name="author" content="Tanvir Hossain">
+    <meta name="description" content="Get to know me">
+    <meta name="keywords" content="personal, portfolio, luanar, machine learning, research, data analyst, software design, creative, google colab, python">
+    <meta name="author" content="Kunozga Mlowoka">
     <!-- PAGE TITLE -->
     <title>Patrick Kawaye - Personal Portfolio</title>
     <link rel="icon" type="image/x-icon" href="{{asset('/favicon.png')}}">

@@ -2,7 +2,7 @@
 * ----------------------------------------------------------------------------------------
 Author       : Hridoy
 Template Name: Probio -  Personal Portfolio / Resume Template
-Version      : 1.0                                          
+Version      : 1.0
 * ----------------------------------------------------------------------------------------
 */
 
@@ -74,7 +74,7 @@ Version      : 1.0
     }
 
     .contact-area {
-        padding-top: 0;
+        padding-top: 50px;
         padding-bottom: 0;
     }
 
@@ -219,7 +219,7 @@ Version      : 1.0
     }
 
     .contact-area {
-        padding-top: 0;
+        padding-top: 50px;
         padding-bottom: 0;
     }
 
